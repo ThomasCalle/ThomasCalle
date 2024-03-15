@@ -87,8 +87,6 @@ With **14 years of demonstrated experience** in business operations, customer se
   <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" /></a>
 </p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ThomasCalle">
