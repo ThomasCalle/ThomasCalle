@@ -1,5 +1,4 @@
-## Hello there 👋
-
+## 🤾🏻‍♂️ Thomas Calle
 I'm a highly qualified and motivated **Full Stack Web Developer**, recently graduated from the **University of Toronto's Computer Science Bootcamp** in April 2023. I'm seeking a junior developer or internship position to enhance my technical skills and understanding of project management principles. 
 
 With **14 years of demonstrated experience** in business operations, customer service, and human resources, I specialize in merging technical expertise with superior interpersonal communication across all management levels. I am dedicated to continuous learning and eager to contribute to and advance within your esteemed organization.
@@ -86,6 +85,10 @@ With **14 years of demonstrated experience** in business operations, customer se
   <!-- MacOS Icon and Link -->
   <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" /></a>
 </p>
+
+
+<!-- BEGIND YOUTUBE-CARDS -->
+<!-- END OYUTUBE-CARDS -->
 
 <b>My GitHub Stats</b>
 
